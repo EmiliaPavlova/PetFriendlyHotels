@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PetFriendlyHotels</string>
+    <string name="error_data_message">Error Loading data from the Google Places API</string>
+</resources>
