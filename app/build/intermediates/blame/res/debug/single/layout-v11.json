@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]
