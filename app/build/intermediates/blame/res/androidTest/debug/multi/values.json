@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/emiliya_pavlova/.android/build-cache/76d295007df8a3ac2b4c6dccf84c1168771a4e65/output/res/values/values.xml",
+                    "file": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\76d295007df8a3ac2b4c6dccf84c1168771a4e65\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Emily\\.android\\build-cache\\be1c9c93daea85cab7c11d57c5e0edb8014d289a\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -1,4 +1,4 @@
-#Mon Oct 09 10:20:31 MSK 2017
-base.0=/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+#Tue Oct 10 08:58:11 EEST 2017
+base.0=D\:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 renamed.0=classes.dex
-file.0=/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
+file.0=D\:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

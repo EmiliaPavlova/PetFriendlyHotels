@@ -1,7 +1,4 @@
-#Mon Oct 09 10:28:17 MSK 2017
-base.0=/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f6cccd517ffd9ce769e22a01b432ef4196fe7bc5
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cac92e7e95f955172bbcf3ac550999ccc8b5dea5/classes.dex
-base.1=/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cac92e7e95f955172bbcf3ac550999ccc8b5dea5
-file.0=/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f6cccd517ffd9ce769e22a01b432ef4196fe7bc5/classes.dex
+#Thu Oct 12 13:13:10 EEST 2017
+base.0=D\:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

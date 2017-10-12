@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
-        "source": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     }
 ]

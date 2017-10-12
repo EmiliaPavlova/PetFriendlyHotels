@@ -1,6 +1,7 @@
 package com.example.emily.petfriendlyhotels;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -35,7 +36,7 @@ public class HotelsAdapter extends RecyclerView.Adapter<HotelsAdapter.HotelViewH
         return hotels.size();
     }
 
-    public class HotelViewHolder extends RecyclerView.ViewHolder {
+    public class HotelViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
         TextView tvName;
         TextView tvAddress;
@@ -44,11 +45,21 @@ public class HotelsAdapter extends RecyclerView.Adapter<HotelsAdapter.HotelViewH
             super(itemView);
             tvName = (TextView) itemView.findViewById(R.id.tvName);
             tvAddress = (TextView) itemView.findViewById(R.id.tvAddress);
+            itemView.setOnClickListener(this);
         }
 
         public void bind (Hotel hotel) {
             tvName.setText(hotel.name);
             tvAddress.setText(hotel.address);
+        }
+
+        @Override
+        public void onClick(View view) {
+            int position = getAdapterPosition();
+            Hotel selectedHotel = hotels.get(position);
+            Intent intent = new Intent(view.getContext(), HotelDetail.class);
+            intent.putExtra("Hotel", selectedHotel);
+            view.getContext().startActivity(intent);
         }
     }
 }

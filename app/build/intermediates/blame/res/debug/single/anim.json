@@ -1,42 +1,82 @@
 [
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_popup_exit.xml"
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_popup_enter.xml"
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_fade_out.xml"
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_slide_in_top.xml"
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_fade_in.xml"
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/emiliya_pavlova/.android/build-cache/9a933fe602b720b957a10738a7e2a4bbd877094b/output/res/anim/abc_slide_out_top.xml"
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

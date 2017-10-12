@@ -68,6 +68,8 @@ public class ApiUtil {
         final String ID = "id";
         final String NAME = "name";
         final String ADDRESS = "formatted_address";
+        final String PHOTOS = "photos";
+        final String HTML_ATTRIBUTIONS="html_attributions";
         final String RATING = "rating";
         final String LOCATION = "location";
         final String LAT = "lat";
@@ -80,9 +82,27 @@ public class ApiUtil {
         try {
             JSONObject jsonHotels = new JSONObject(json);
             JSONArray arrayHotels = jsonHotels.getJSONArray(RESULTS);
+            String imageUrl = new String();
             int numberOfHotels = arrayHotels.length();
             for (int i = 0; i < numberOfHotels; ++i) {
                 JSONObject hotelJSON = arrayHotels.getJSONObject(i);
+                JSONArray arrayPhotos = hotelJSON.getJSONArray(PHOTOS);
+                int numberOfPhotos = arrayPhotos.length();
+                for (int j = 0; j < numberOfPhotos; ++j) {
+                    JSONObject photosAttributionsJSON = arrayPhotos.getJSONObject(j);
+                    JSONArray arrayHtmlAttributions = photosAttributionsJSON.getJSONArray(HTML_ATTRIBUTIONS);
+                    int numberOfHtmlAttributions = arrayHtmlAttributions.length();
+                    String[] imageUrls = new String[numberOfHtmlAttributions];
+                    imageUrl = photosAttributionsJSON.getJSONArray(HTML_ATTRIBUTIONS).get(j).toString();
+                    int index = imageUrl.indexOf("href=\"");
+                    imageUrl = imageUrl.substring(index + 6, imageUrl.length());
+//                    for (int k = 0; k < numberOfHtmlAttributions; ++k) {
+//                        imageUrls[k] = photosAttributionsJSON.getJSONArray(HTML_ATTRIBUTIONS).get(j).toString();
+//                        int index = imageUrls[k].indexOf("href=\"");
+//                        imageUrls[k] = imageUrls[k].substring(index + 6, imageUrls[k].length());
+//                    }
+                }
+
                 JSONObject geometryJSON = hotelJSON.getJSONObject(GEOMETRY);
                 JSONObject locationJSON = geometryJSON.getJSONObject(LOCATION);
                 String[] location = new String[2];
@@ -93,6 +113,7 @@ public class ApiUtil {
                         hotelJSON.getString(ID),
                         hotelJSON.getString(NAME),
                         hotelJSON.getString(ADDRESS),
+                        imageUrl,
                         (hotelJSON.isNull(RATING) ? "" : hotelJSON.getString(RATING)),
                         location);
                 hotels.add(hotel);

@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/hotel_icon.xml",
-        "source": "/Users/emiliya_pavlova/Documents/Practice/Telerik/PetFriendlyHotels/app/build/generated/res/pngs/debug/drawable-anydpi-v21/hotel_icon.xml"
+        "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\hotel_icon.xml",
+        "source": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hotel_icon.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\hotel_icon.xml",
+        "source": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hotel_icon.xml"
     }
 ]
