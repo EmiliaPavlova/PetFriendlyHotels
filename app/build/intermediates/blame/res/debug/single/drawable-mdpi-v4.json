@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
@@ -128,12 +136,20 @@
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
@@ -216,6 +232,10 @@
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
@@ -290,6 +310,10 @@
     {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",

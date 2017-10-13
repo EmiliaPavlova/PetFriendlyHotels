@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">PetFriendlyHotels</string>
     <string name="error_data_message">Error Loading data from the Google Places API</string>
+    <string name="no_search_data">Please insert valid search terms </string>
     <string name="search">Search</string>
+
+    <string name="hint_name">Search by name</string>
+    <string name="hint_address">Search by address</string>
+    <string name="hint_distance">Search by distance</string>
+    <string name="advanced_search">Advanced Search</string>
 </resources>

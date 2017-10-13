@@ -68,6 +68,10 @@
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
@@ -92,12 +96,20 @@
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -116,6 +128,10 @@
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
@@ -130,6 +146,10 @@
     {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -176,6 +196,10 @@
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
@@ -196,6 +220,10 @@
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_button_shape.xml",
+        "source": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\src\\main\\res\\drawable\\search_button_shape.xml"
+    },
+    {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
@@ -208,8 +236,20 @@
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
@@ -218,6 +258,18 @@
     {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\Emily\\.android\\build-cache\\a83c660dfe7e9616d47393690d05012b3cb60825\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
@@ -266,6 +318,14 @@
     {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Emily\\.android\\build-cache\\a2eed249acb4a87bfe93b5e37f9c0703f39e701e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",

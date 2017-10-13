@@ -19,7 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HotelDetail"></activity>
+        <activity android:name=".HotelDetail" />
+        <activity android:name=".SearchActivity"></activity>
     </application>
 
 </manifest>

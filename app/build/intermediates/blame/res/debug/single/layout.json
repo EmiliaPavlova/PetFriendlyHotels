@@ -196,6 +196,10 @@
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+        "merged": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\Telerik\\Android\\PetFriendlyHotels\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
         "merged": "D:\\Users\\emiliya_pavlova\\Documents\\Practice\\Telerik\\PetFriendlyHotels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "D:\\Users\\emiliya_pavlova\\.android\\build-cache\\9a933fe602b720b957a10738a7e2a4bbd877094b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },

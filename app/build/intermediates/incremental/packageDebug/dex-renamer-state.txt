@@ -1,4 +1,4 @@
-#Thu Oct 12 13:13:10 EEST 2017
+#Fri Oct 13 05:58:01 EEST 2017
 base.0=D\:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\Telerik\\Android\\PetFriendlyHotels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

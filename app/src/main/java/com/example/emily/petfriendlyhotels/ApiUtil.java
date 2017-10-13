@@ -21,9 +21,37 @@ public class ApiUtil {
     public static final String QUERY_PARAMETER_KEY = "query";
     public static final String KEY = "key";
     public static final String API_KEY = "AIzaSyDJyoiqpcR-Y4uZ0m3_AslxA73K3XuE40k";
+//    public static final String TYPE = "type=lodging";
+    public static final String NAME = "name=";
+    public static final String ADDRESS = "keyword=";
+    public static final String DISTANCE = "distance=";
+
 
     public static URL buildUrl(String query) {
         URL url = null;
+        Uri uri = Uri.parse(BASE_API_URL).buildUpon()
+//                .appendQueryParameter(QUERY_PARAMETER_KEY, query)
+                .appendQueryParameter(QUERY_PARAMETER_KEY, query)
+                .appendQueryParameter(KEY, API_KEY)
+                .build();
+        try {
+            url = new URL(uri.toString());
+        }
+        catch (Exception e) {
+            e.printStackTrace();
+        }
+        return url;
+    }
+
+    public static URL buildUrl(String name, String address, String distance) {
+        URL url = null;
+        StringBuilder sb = new StringBuilder();
+        if (!name.isEmpty()) sb.append(NAME + name + '&');
+        if (!address.isEmpty()) sb.append(ADDRESS + address + '&');
+        if (!distance.isEmpty()) sb.append(DISTANCE + distance + '&');
+//        sb.append(TYPE + '&');
+        sb.setLength(sb.length() - 1);
+        String query = sb.toString();
         Uri uri = Uri.parse(BASE_API_URL).buildUpon()
                 .appendQueryParameter(QUERY_PARAMETER_KEY, query)
                 .appendQueryParameter(KEY, API_KEY)
